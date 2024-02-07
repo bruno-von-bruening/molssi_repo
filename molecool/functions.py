@@ -8,3 +8,6 @@ def dummy()
 
 def dummy2()
     return None
+
+def new_branch_feature()
+    return None
