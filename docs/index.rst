@@ -5,6 +5,7 @@
 
 Welcome to molecool's documentation!
 =========================================================
+Molecool is the package we work on for the MOLSSI school.
 
 .. toctree::
    :maxdepth: 2
@@ -12,6 +13,7 @@ Welcome to molecool's documentation!
 
    getting_started
    api
+   about
 
 
 
