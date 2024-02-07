@@ -5,3 +5,6 @@ def squares(x):
 
 def dummy()
     return None
+
+def dummy2()
+    return None
